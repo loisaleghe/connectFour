@@ -1,0 +1,16 @@
+table button{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(128, 128, 128);
+  border: 4px solid black;
+  margin: 1px;
+  border-radius: 50%;
+}
+
+.turnBlue{
+  background-color: blue;
+}
+
+.turnRed{
+  background-color: red;
+}
